@@ -1,4 +1,4 @@
 # autodiff_workshop
-Material from Workshop on Automatic Differentiation (Autograd/Pytorch)
+Jupyter notebook of examples from workshop on Automatic Differentiation (uses Autograd/Pytorch).
 
-Accompanying slides can be viewed at https://slides.com/robsal/autodiff/
+The notebook is Part 2 of the workshop. Slides from the first part can be viewed at https://slides.com/robsal/autodiff/
